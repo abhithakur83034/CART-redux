@@ -1,0 +1,24 @@
+{
+    "image": {
+      "type": "String"
+    },
+    "sku": {
+      "type": "String"
+    },
+    "name": {
+      "type": "String"
+    },
+    "price": {
+      "type": "String"
+    },
+    "model": {
+      "type": "String"
+    },
+    "manufacturer": {
+      "type": "String"
+    },
+    "quantity": {
+      "type": "Number",
+      "default": 1
+    }
+  }

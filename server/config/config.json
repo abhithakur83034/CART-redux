@@ -1,0 +1,28 @@
+{
+    "database":{
+        "mysql":{
+            "host":"",
+            "user":"",
+            "database":"",
+            "password":"",
+            "port":""
+
+        },
+        "oracle":{
+            "host":"",
+            "user":"",
+            "database":"",
+            "password":"",
+            "port":""
+
+        },
+        "mongodb":{
+            "local":"",
+            "atlas":"",
+            "cluster":""
+
+
+        }
+        
+    }
+}
